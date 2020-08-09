@@ -7,7 +7,7 @@
 * How to use useState/useEffect in React 
 
 ## Open With
-  Follow the link to access the final project. [My Netflix clone](netflix-clone-59b6e.web.app)
+  Follow the link to access the final project. [My Netflix clone](https://netflix-clone-59b6e.web.app/)
 
 ## Deployment
 Deployed using Google Firebase hosting
