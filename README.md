@@ -1,5 +1,5 @@
 # Netflix-Clone
-A simple Netflix clone that plays trailers from Youtube 
+  A simple Netflix clone that plays trailers from Youtube 
 
 ## Things I Learned
 * How to Create a React App from the command line
@@ -7,7 +7,7 @@ A simple Netflix clone that plays trailers from Youtube
 * How to use useState/useEffect in React 
 
 ## Open With
-Follow this link to access the final project netflix-clone-59b6e.web.app
+  Follow this link to access the final project netflix-clone-59b6e.web.app
 
 ## Deployment
 Deployed using Google Firebase hosting
@@ -20,7 +20,7 @@ Deployed using Google Firebase hosting
 Feel free to contribute 
 
 ## Authors
-* Ryan White
+  Ryan White
 
 ## Acknowledgments 
-* Thank you to the Clever Programmer team
+  Thank you to the Clever Programmer team
