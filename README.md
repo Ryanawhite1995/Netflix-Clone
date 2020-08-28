@@ -1,5 +1,5 @@
 # Netflix-Clone
-  A simple Netflix clone that plays trailers from Youtube 
+  A Netflix clone that plays trailers from Youtube 
 
 ## Things I Learned
 * How to Create a React App from the command line
